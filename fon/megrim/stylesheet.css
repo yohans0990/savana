@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Megrim';
+    src: url('Megrim.eot');
+    src: url('Megrim.eot?#iefix') format('embedded-opentype'),
+        url('Megrim.woff2') format('woff2'),
+        url('Megrim.woff') format('woff'),
+        url('Megrim.ttf') format('truetype'),
+        url('Megrim.svg#Megrim') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

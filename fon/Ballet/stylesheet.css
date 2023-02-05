@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Ballet';
+    src: url('Ballet-Regular.eot');
+    src: url('Ballet-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Ballet-Regular.woff2') format('woff2'),
+        url('Ballet-Regular.woff') format('woff'),
+        url('Ballet-Regular.ttf') format('truetype'),
+        url('Ballet-Regular.svg#Ballet-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

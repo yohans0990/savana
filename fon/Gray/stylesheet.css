@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Grey Qo';
+    src: url('GreyQo-Regular.eot');
+    src: url('GreyQo-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GreyQo-Regular.woff2') format('woff2'),
+        url('GreyQo-Regular.woff') format('woff'),
+        url('GreyQo-Regular.ttf') format('truetype'),
+        url('GreyQo-Regular.svg#GreyQo-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
